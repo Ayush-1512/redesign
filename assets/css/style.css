@@ -123,7 +123,7 @@ a:hover {
 }
 
 .color-b {
-  color: #3354FF;
+  color: #317bbc;
 }
 
 .color-d {
@@ -161,7 +161,7 @@ a:hover {
   bottom: -1px;
   width: 100%;
   height: 2px;
-  background-color: #3354FF;
+  background-color: #317bbc;
   z-index: 2;
 }
 
@@ -219,7 +219,7 @@ a:hover {
 }
 
 .pagination-a .pagination .page-link:hover, .pagination-a .pagination .page-link:active, .pagination-a .pagination .page-link:focus {
-  background-color: #3354FF;
+  background-color: #317bbc;
 }
 
 .pagination-a .pagination .page-link span {
@@ -246,12 +246,12 @@ a:hover {
 }
 
 .pagination-a .pagination .page-item.active .page-link {
-  background-color: #3354FF;
+  background-color: #317bbc;
 }
 
 .a {
   text-decoration: none;
-  color: #3354FF;
+  color: #317bbc;
   font-size: 1.3rem;
 }
 
@@ -358,7 +358,7 @@ a:hover {
   position: absolute;
   width: 70px;
   height: 4px;
-  background-color: #3354FF;
+  background-color: #317bbc;
   bottom: 20px;
   left: 0;
 }
@@ -413,7 +413,7 @@ a:hover {
 }
 
 .carousel-pagination .swiper-pagination-bullet-active {
-  background-color: #3354FF;
+  background-color: #317bbc;
   width: 36px;
 }
 
@@ -443,7 +443,7 @@ a:hover {
   display: inline-block;
   transition: all 0.6s ease-in-out;
   color: #ffffff;
-  background-color: #3354FF;
+  background-color: #317bbc;
   opacity: .9;
 }
 
@@ -481,7 +481,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #3354FF;
+  background: #317bbc;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -522,7 +522,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #3354FF;
+  border-top: 6px solid #317bbc;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -568,12 +568,12 @@ a:hover {
 }
 
 .btn.btn-a:hover {
-  background-color: #3354FF;
+  background-color: #317bbc;
   color: #000000;
 }
 
 .btn.btn-b {
-  background-color: #3354FF;
+  background-color: #317bbc;
   color: #000000;
 }
 
@@ -583,7 +583,7 @@ a:hover {
 }
 
 .btn.btn-b-n {
-  background-color: #3354FF;
+  background-color: #317bbc;
   color: #ffffff;
   border-radius: 0;
 }
@@ -664,7 +664,7 @@ a:hover {
   width: 100%;
   height: 2px;
   z-index: 0;
-  background-color: #3354FF;
+  background-color: #317bbc;
   transform: scaleX(0);
   transform-origin: right;
   transition: transform .2s ease-out, opacity .2s ease-out 0.3s;
@@ -690,7 +690,7 @@ a:hover {
 }
 
 .navbar-default.navbar-trans .nav-link:before {
-  background-color: #3354FF;
+  background-color: #317bbc;
 }
 
 .navbar-default.navbar-trans .nav-link:hover {
@@ -715,7 +715,7 @@ a:hover {
 }
 
 .navbar-default.navbar-reduce .nav-link:before {
-  background-color: #3354FF;
+  background-color: #317bbc;
 }
 
 .navbar-default.navbar-reduce .nav-link:hover {
@@ -735,7 +735,7 @@ a:hover {
 
 .navbar-default .dropdown .dropdown-menu {
   border-top: 0;
-  border-left: 4px solid #3354FF;
+  border-left: 4px solid #317bbc;
   border-right: 0;
   border-bottom: 0;
   transform: translate3d(0px, 40px, 0px);
@@ -750,7 +750,7 @@ a:hover {
 
 @media (min-width: 768px) {
   .navbar-default .dropdown .dropdown-menu {
-    border-top: 4px solid #3354FF;
+    border-top: 4px solid #317bbc;
     border-left: 0;
     display: block;
     position: absolute;
@@ -767,13 +767,13 @@ a:hover {
 
 .navbar-default .dropdown .dropdown-menu .dropdown-item:hover {
   background-color: #ffffff;
-  color: #3354FF;
+  color: #317bbc;
   transition: all 500ms ease;
 }
 
 .navbar-default .dropdown .dropdown-menu .dropdown-item.active {
   background-color: #ffffff;
-  color: #3354FF;
+  color: #317bbc;
 }
 
 .navbar-default .dropdown:hover .dropdown-menu {
@@ -962,7 +962,7 @@ a:hover {
 .down 
 {
   background-image: url("assets/img/tes1.jpg");
-  
+
 }
 
 .intro .swiper-pagination {
@@ -979,7 +979,7 @@ a:hover {
 }
 
 .intro .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #3354FF;
+  background-color: #317bbc;
   width: 36px;
 }
 
@@ -1013,7 +1013,7 @@ a:hover {
 .intro .intro-body .price-a {
   color: #ffffff;
   padding: 1rem 1.5rem;
-  border: 2px solid #3354FF;
+  border: 2px solid #317bbc;
   border-radius: 50px;
   text-transform: uppercase;
   letter-spacing: 0.030em;
@@ -1122,7 +1122,7 @@ a:hover {
 }
 
 .intro-single .title-single-box {
-  border-left: 3px solid #3354FF;
+  border-left: 3px solid #317bbc;
 }
 
 .intro-single .title-single-box .title-single {
@@ -1339,7 +1339,7 @@ a:hover {
 .price-a {
   color: #ffffff;
   padding: .6rem .8rem;
-  border: 2px solid #3354FF;
+  border: 2px solid #317bbc;
   border-radius: 50px;
   text-transform: uppercase;
   letter-spacing: 0.030em;
@@ -1349,7 +1349,7 @@ a:hover {
   width: 100%;
   position: absolute;
   z-index: 2;
-  background-color: #3354FF;
+  background-color: #317bbc;
 }
 
 .card-info {
@@ -1489,9 +1489,9 @@ a:hover {
 
 .card-header-b .category-b {
   font-size: .9rem;
-  background-color: #3354FF;
+  background-color: #317bbc;
   padding: .3rem .7rem;
-  color: #313131;
+  color: white;
   letter-spacing: 0.030em;
   border-radius: 50px;
   text-decoration: none;
@@ -1501,6 +1501,7 @@ a:hover {
   margin-bottom: 0;
   padding: .6rem 0;
   font-size: 1.5rem;
+  color: white;
 }
 
 @media (min-width: 768px) {
@@ -1563,7 +1564,7 @@ a:hover {
 
 .post-content .blockquote {
   padding: 1rem 3rem 1.7rem 3rem;
-  border-left: 3px solid #3354FF;
+  border-left: 3px solid #317bbc;
   color: #000000;
 }
 
@@ -1666,7 +1667,7 @@ a:hover {
 
 .card-box-ico {
   padding: 1rem 3rem 1rem 2.5rem;
-  border: 5px solid #3354FF;
+  border: 5px solid #317bbc;
 }
 
 .card-box-ico span {
@@ -1795,7 +1796,7 @@ a:hover {
 }
 
 .card-box-d:hover .card-overlay-hover {
-  background-color: #3354FF;
+  background-color: #317bbc;
   opacity: .9;
 }
 
@@ -1849,7 +1850,7 @@ a:hover {
 }
 
 .sinse-box {
-  background-color: #3354FF;
+  background-color: #317bbc;
   padding: 1rem 2rem;
   position: absolute;
   left: 15px;
@@ -1948,7 +1949,7 @@ a:hover {
 
 .testimonial-ico i {
   font-size: 48px;
-  color: #3354FF;
+  color: #317bbc;
 }
 
 .testimonial-text {
@@ -1986,7 +1987,7 @@ a:hover {
 # Contact Section
 --------------------------------------------------------------*/
 .form-as #sendmessage {
-  color: #3354FF;
+  color: #317bbc;
   border: 1px solid #26a356;
   display: none;
   text-align: center;
@@ -2038,7 +2039,7 @@ a:hover {
 
 .form-as .form-control:focus {
   box-shadow: none;
-  border-color: #3354FF;
+  border-color: #317bbc;
 }
 
 .php-email-form .error-message {
@@ -2100,7 +2101,7 @@ a:hover {
 
 .php-email-form .form-control:focus {
   box-shadow: none;
-  border-color: #3354FF;
+  border-color: #317bbc;
 }
 
 @-webkit-keyframes animate-loading {
